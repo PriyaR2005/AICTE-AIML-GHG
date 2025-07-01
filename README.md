@@ -1,7 +1,7 @@
 # AICTE-AIML-GHG
 
-📊 Supply Chain Emission Factor Prediction (AICTE GHG Week 2)
-This repository presents an end-to-end data science project focused on predicting Supply Chain Emission Factors with Margins for U.S. industries and commodities using historical data from 2010–2016. This task was undertaken as part of AICTE GHG (Green House Gas) Week 2 challenge.
+📊 Supply Chain Emission Factor Prediction 
+This repository presents an end-to-end data science project focused on predicting Supply Chain Emission Factors with Margins for U.S. industries and commodities using historical data from 2010–2016. This task was undertaken as part of AICTE GHG (Green House Gas) .
 
 📁 Dataset
 The dataset used is an Excel file containing detailed emission factors for various industries and commodities, categorized by year. Key features include:
