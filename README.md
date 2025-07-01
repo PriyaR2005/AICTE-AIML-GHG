@@ -95,7 +95,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/your-username/aicteghgweek2.git
+git clone https://github.com/PriyaR2005/aicteghgweek2.git
 cd aicteghgweek2
 
 # Install dependencies
